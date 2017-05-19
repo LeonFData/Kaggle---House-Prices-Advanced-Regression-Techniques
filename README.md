@@ -19,9 +19,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
   Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.)
     
 # Data fields
-
 Here's a brief version of what you'll find in the data description file.
-
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 MSSubClass: The building class
 MSZoning: The general zoning classification
