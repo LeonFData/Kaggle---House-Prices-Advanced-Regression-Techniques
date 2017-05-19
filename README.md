@@ -20,7 +20,9 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
     
 # Data fields
 Here's a brief version of what you'll find in the data description file.
+
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
+
 MSSubClass: The building class
 MSZoning: The general zoning classification
 LotFrontage: Linear feet of street connected to property
